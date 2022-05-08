@@ -15,7 +15,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Nuel. I'm a software engineer and a husband to a fantastic mother of tripplet  (Iremide, Ogomide & Ayomide). You can contact me on <a href="https://twitter.com/ibkcom">Twitter</a>.
+          Hello, I'm Nuel. I'm a software engineer and a husband to a fantastic woman <a href="https://www.instagram.com/makenewdesigns/">(Titi)</a> - a mother of of 3 (Iremide, Ogomide & Ayomide). You can contact me on <a href="https://twitter.com/ibkcom">Twitter</a>.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
